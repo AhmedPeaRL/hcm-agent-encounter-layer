@@ -1,0 +1,8 @@
+{
+  "encounter": {
+    "direction": "agent -> presence",
+    "return_path": "external",
+    "binding": false
+  },
+  "principle": "Encounter does not imply relationship."
+}
