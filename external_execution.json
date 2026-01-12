@@ -1,0 +1,8 @@
+{
+  "execution": {
+    "location": "outside_hcm",
+    "triggered_by": "agent_decision",
+    "affects_core": false
+  },
+  "principle": "All actions occur elsewhere."
+}
