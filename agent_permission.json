@@ -1,0 +1,8 @@
+{
+  "agents": {
+    "allowed": true,
+    "recognized": false,
+    "registered": false
+  },
+  "principle": "An agent may encounter without being known."
+}
